@@ -1,6 +1,6 @@
 # FKB - WEB前端知识库，Frontend Knowledge Base
 
-腾讯出品，解决海量用户的Web前端知识库。
+腾讯出品，提供海量用户服务所需的Web前端知识库。
 
 1. [开发规范](https://github.com/imweb/code-guide)
 2. [Lego生态组件系统](https://github.com/imweb/lego)
