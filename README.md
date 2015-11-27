@@ -8,7 +8,8 @@
 5. [MVVM（Q.js）](https://github.com/imweb/Q.js)
 6. [移动开发经验汇总](https://github.com/imweb/mobile)
 7. [Badjs错误日志监控平台](https://github.com/betterjs)
-8. [分享PPT](https://github.com/imweb/ppts)
+8. [IMWeb Font](http://iconfont.imweb.io/)
+9. [分享PPT](https://github.com/imweb/ppts)
 
 诚邀大家一起完善，欢迎 [Fork](https://github.com/imweb/FKB/fork) & [Pull Request](https://github.com/imweb/FKB/pulls) & [Issue](https://github.com/imweb/FKB/issues)
 
