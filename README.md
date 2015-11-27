@@ -7,7 +7,7 @@
 4. [Git开源组件](https://github.com/imweb/Components)
 5. [MVVM（Q.js）](https://github.com/imweb/Q.js)
 6. [移动开发经验汇总](https://github.com/imweb/mobile)
-7. [Badjs错误日志监控平台](https://github.com/betterjs)
+7. [Badjs错误日志监控平台](https://github.com/betterjs) & [Badjs Error](https://github.com/BetterJS/badjs-report/issues)
 8. [IMWeb Font](http://iconfont.imweb.io/)
 9. [分享PPT](https://github.com/imweb/ppts)
 
