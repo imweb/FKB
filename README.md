@@ -3,7 +3,7 @@
 腾讯出品，提供海量用户服务所需的Web前端知识库。
 
 ### 经验分享
-1. [开发规范](http://imweb.github.io/rule/)
+1. [团队规范汇总](https://github.com/imweb/code-guide) & [开发规范](http://imweb.github.io/rule/)
 2. [移动开发经验汇总](https://github.com/imweb/mobile)
 3. [ES6规范](https://github.com/imweb/es6-code-style)
 4. [行业分享精华](https://github.com/imweb/ppts)
