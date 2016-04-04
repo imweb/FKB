@@ -4,7 +4,7 @@
 
 ### 经验分享
 1. [团队规范汇总](https://github.com/imweb/code-guide) & [开发规范](http://imweb.github.io/rule/)
-2. [移动开发经验汇总](https://github.com/imweb/mobile)
+2. [移动开发经验汇总](https://github.com/imweb/mobile) & [移动优化经验](https://github.com/herbertliu/OMS)
 3. [ES6规范](https://github.com/imweb/es6-code-style-guide)
 4. [行业分享精华](https://github.com/imweb/ppts)
 5. [RESTful体系](https://github.com/imweb/RESTful)
