@@ -7,6 +7,7 @@
 2. [移动开发经验汇总](https://github.com/imweb/mobile)
 3. [ES6规范](https://github.com/imweb/es6-code-style-guide)
 4. [行业分享精华](https://github.com/imweb/ppts)
+5. [RESTful体系](https://github.com/imweb/RESTful)
 
 ### 质量建设
 1. [Badjs错误日志监控平台](https://github.com/betterjs) & [Badjs Error](https://github.com/BetterJS/badjs-report/issues)
