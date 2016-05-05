@@ -12,7 +12,7 @@
 ### 质量建设
 1. [Badjs错误日志监控平台](https://github.com/betterjs) & [Badjs Error](https://github.com/BetterJS/badjs-report/issues)
 2. [性能优化体系](https://github.com/herbertliu/heron) [完善中]
--   [视频优化专项](https://github.com/herbertliu/heron/issues/1)
+-  [视频优化专项](https://github.com/herbertliu/heron/issues/1)
 -   图片优化专项
 
 
